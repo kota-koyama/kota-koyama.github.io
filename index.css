@@ -1,0 +1,43 @@
+#top-img{
+    width: 250px;
+    
+}
+body{
+    background-image: url("izu.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+#ttitle{
+    font-size: 30px;
+    text-align: left;
+    color: #fff;
+    text-shadow: 1px 1px 0px #000;
+    
+    }
+h1{
+    font-size: 55px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 3px 3px 0px #000;
+}
+p{
+    margin-left: 50px;
+    font-size: 35px;
+}
+ul{
+    font-size: 20px;
+}
+
+table{
+    font-size: 25px;
+}
+h4{
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 1px 1px 0px #000;
+    text-align: center;
+}
+table{
+     background-color: rgba(255,255,255,0.5);
+}
